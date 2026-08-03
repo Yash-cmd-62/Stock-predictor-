@@ -1,9 +1,7 @@
-Covers every import used across the 3 files: `streamlit`, `pandas`, `numpy`, `plotly` (for charts), `requests` (Alpha Vantage calls), `yfinance` (fallback data), `scikit-learn` (the 4 ML models + metrics).
-
-**To run:**
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-Want the README.md next, so the whole thing is GitHub/submission-ready?
+streamlit
+pandas
+numpy
+plotly
+requests
+yfinance
+scikit-learn
